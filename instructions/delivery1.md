@@ -12,7 +12,8 @@ You are developers at a software development company. You have been contacted by
         5. media and entertainment; 
         6. automation which require taking as much of the home inhabitants out of routine tasks as possible.
 
-    The summation and harmonization of all the six categories of SmartHome+ will provide for a truly rewarding living experience for the SmartHome+ users.
+    The summation and harmonization of all the six categories of SmartHome+ will 
+    provide for a truly rewarding living experience for the SmartHome+ users.
 
 ### Description of tasks involved in the assignment
 
@@ -45,15 +46,19 @@ You should conduct a post mortem analysis of the software requirements engineeri
     What was the advantage of this technique based on your experience in this assignment?
     What was the disadvantage of this technique based on your experience in this assignment?
     How efficient was the technique, i.e. how good requirements did it help uncover given the time it took to use?
-    In which situations would you use this technique in a future project? In which situations would you not use this technique in a future project?
+    In which situations would you use this technique in a future project? 
+    In which situations would you not use this technique in a future project?
 
-    Summarize how much time was spent (in total and by each group member) on the steps/activities involved as well as for the delivery as a whole.  Be honest with the time spent, as this information will in no way be used for any grading.
+    Summarize how much time was spent (in total and by each group member) on 
+    the steps/activities involved as well as for the delivery as a whole.  
+    Be honest with the time spent, as this information will in no way be used for any grading.
     In addition to the material seen in class, what other techniques did you apply for completing  this delivery?
 
     Which techniques worked well
     Which techniques did not work
 
-    How did you work together as a group in the project? What worked well, and what did not work during your interaction(s)? What would you do differently in the future?
+    How did you work together as a group in the project? What worked well, 
+    and what did not work during your interaction(s)? What would you do differently in the future?
 
 Evaluation Criteria
 
