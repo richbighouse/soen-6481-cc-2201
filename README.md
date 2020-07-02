@@ -5,4 +5,4 @@
 * Farzad Shamriz - 40084665
 * Shah Mohammad Mostakim - 40083171
 * Mahsa Alsadat Ghoreishi-40056928
-* Amit Kumar Dey
+* Amit Kumar Dey - 40106069
