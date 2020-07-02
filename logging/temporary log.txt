@@ -2,3 +2,4 @@ Temporary log until we setup a better one
 
 DATE			TIME		MEMBER							TASK
 2020-06-30		20min		Richard Grand'Maison			Setup github repo and files
+2020-07-01		15min 		Richard Grand'Maison			Create questionnaire questions
