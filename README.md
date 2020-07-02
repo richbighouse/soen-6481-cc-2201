@@ -6,3 +6,7 @@
 * Shah Mohammad Mostakim - 40083171
 * Mahsa Alsadat Ghoreishi-40056928
 * Amit Kumar Dey - 40106069
+
+#### Useful links
+
+[Task 1 Elicitation artefact practice](https://docs.google.com/document/d/1FmX5atBFhi7Lsc5Tht47Ju1jsznNzJO_iz4hPA-gbH8/edit)
