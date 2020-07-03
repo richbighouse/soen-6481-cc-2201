@@ -9,3 +9,4 @@ DATE			    TIME		MEMBER						       	TASK
 2020-07-01    45min   Amit Kumar Dey            questionnaire questions in google doc 
 2020-06-30		15min 	Farzad Shamriz	      		Create questionnaire questions
 2020-07-02    45min   Farzad Shamriz            Questionaries modification
+2020-06-30    15min   Farzad Shamriz            Searching about google home devices and their facilities
