@@ -3,3 +3,5 @@ Temporary log until we setup a better one
 DATE			TIME		MEMBER							TASK
 2020-06-30		20min		Richard Grand'Maison			Setup github repo and files
 2020-07-01		15min 		Richard Grand'Maison			Create questionnaire questions
+2020-07-01    60min   Shah Mohammad Mostakim    Add questionnaire questions from my side in google doc
+2020-07-01    45min   Amit Kumar Dey            questionnaire questions in google doc 
