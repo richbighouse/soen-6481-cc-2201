@@ -11,3 +11,4 @@ DATE			    TIME		MEMBER						       	TASK
 2020-07-02    45min   Farzad Shamriz            Questionaries modification
 2020-06-30    15min   Farzad Shamriz            Searching about google home devices and their facilities
 2020-07-02    20min   Farzad Shamriz            Questionaries modification to finalize
+2020-07-02    90min   Shah Mohammad Mostakim    Review and finalize the Questionnaire with team 
