@@ -1,16 +1,20 @@
 Temporary log until we setup a better one
 
 DATE			    TIME		MEMBER						       	TASK
-2020-06-30		20min		Richard Grand'Maison			Setup github repo and files
+2020-06-30		20min		Richard Grand'Maison		Setup github repo and files
+2020-07-01		15min 		Richard Grand'Maison		Create questionnaire questions
+2020-07-02		180min		Richard Grand'Maison		Research existing solutions, and formulate questions to answer Vision Document requirements
 2020-07-01		15min 	Richard Grand'Maison			Create questionnaire questions
-2020-07-02		3hrs		Richard Grand'Maison			Research existing solutions, and formulate questions to answer Vision Document requirements
-2020-07-01		15min 	Richard Grand'Maison			Create questionnaire questions
-2020-07-01    60min   Shah Mohammad Mostakim    Add questionnaire questions from my side in google doc
-2020-07-01    45min   Amit Kumar Dey            questionnaire questions in google doc 
-2020-07-01    30min   Mahsa Alsadat Ghoreishi   Create questionnaire questions
-2020-06-30		15min 	Farzad Shamriz	      		Create questionnaire questions
-2020-07-02    45min   Farzad Shamriz            Questionaries modification
-2020-06-30    15min   Farzad Shamriz            Searching about google home devices and their facilities
-2020-07-02    20min   Farzad Shamriz            Questionaries modification to finalize
-2020-07-02    90min   Shah Mohammad Mostakim    Review and finalize the Questionnaire with team
-2020-07-04    1hr     Mahsa Alsadat Ghoreishi   Search about smart home devices
+2020-07-01    	60min   Shah Mohammad Mostakim    		Add questionnaire questions from my side in google doc
+2020-07-01    	45min   Amit Kumar Dey            		questionnaire questions in google doc 
+2020-07-01    	30min   Mahsa Alsadat Ghoreishi   		Create questionnaire questions
+2020-06-30		15min 	Farzad Shamriz	      			Create questionnaire questions
+2020-07-02    	45min   Farzad Shamriz            		Questionaries modification
+2020-06-30    	15min   Farzad Shamriz           		Searching about google home devices and their facilities
+2020-07-02    	20min   Farzad Shamriz            		Questionaries modification to finalize
+2020-07-02    	90min   Shah Mohammad Mostakim    		Review and finalize the Questionnaire with team
+2020-07-04    	60min   Mahsa Alsadat Ghoreishi   		Search about smart home devices
+2020-07-05		60min	Richard Grand'Maison			Vision Document 4.2
+2020-07-05		60min 	Richard Grand'Maison			Vision Document 4.3
+2020-07-05		90min	Richard Grand'Maison			Research directo competitors and Vision Document 4.4
+2020-07-05		30min	Richard Grand'Maison			Create SmartHome+ system diagram for Vision Document 4.1
