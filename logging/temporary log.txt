@@ -21,3 +21,5 @@ DATE			    TIME		MEMBER						       	TASK
 2020-07-04    30min   Mahsa Alsadat Ghoreishi   		Search about available market in smart home systems.
 2020-07-05    60mins   Mahsa Alsadat Ghoreishi   		Vision Document 2.1 and 2.2
 2020-07-05    120mins   Mahsa Alsadat Ghoreishi   		Vision Document 3
+2020-07-05		60min Richard Grand'Maison				Vision Document 5
+2020-05-05		15min Richard Grand'Maison				Vision Document Introduction
