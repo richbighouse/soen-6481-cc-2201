@@ -18,3 +18,6 @@ DATE			    TIME		MEMBER						       	TASK
 2020-07-05		60min 	Richard Grand'Maison			Vision Document 4.3
 2020-07-05		90min	Richard Grand'Maison			Research directo competitors and Vision Document 4.4
 2020-07-05		30min	Richard Grand'Maison			Create SmartHome+ system diagram for Vision Document 4.1
+2020-07-04    30min   Mahsa Alsadat Ghoreishi   		Search about available market in smart home systems.
+2020-07-05    60mins   Mahsa Alsadat Ghoreishi   		Vision Document 2.1 and 2.2
+2020-07-05    120mins   Mahsa Alsadat Ghoreishi   		Vision Document 3
