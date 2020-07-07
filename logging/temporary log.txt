@@ -25,3 +25,5 @@ DATE			    TIME		MEMBER						       	TASK
 2020-05-05		15min Richard Grand'Maison				Vision Document Introduction
 2020-07-05    240min   Farzad Shamriz             Vision Document 4 
 2020-07-05    50min    Farzad Shamriz         Searching for smart home software 
+2020-07-06    2hours   Mahsa Alsadat Ghoreishi  Attending in the finalinzing documents meeting
+
