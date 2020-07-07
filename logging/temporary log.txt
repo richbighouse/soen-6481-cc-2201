@@ -14,6 +14,7 @@ DATE			    TIME		MEMBER						       	TASK
 2020-07-02    	20min   Farzad Shamriz            		Questionaries modification to finalize
 2020-07-02    	90min   Shah Mohammad Mostakim    		Review and finalize the Questionnaire with team
 2020-07-04    	60min   Mahsa Alsadat Ghoreishi   		Search about smart home devices
+2020-07-04    	90min   Amit Kumar Dey  		          Research on the smart home systems.
 2020-07-05		60min	Richard Grand'Maison			Vision Document 4.2
 2020-07-05		60min 	Richard Grand'Maison			Vision Document 4.3
 2020-07-05		90min	Richard Grand'Maison			Research directo competitors and Vision Document 4.4
@@ -25,5 +26,4 @@ DATE			    TIME		MEMBER						       	TASK
 2020-05-05		15min Richard Grand'Maison				Vision Document Introduction
 2020-07-05    240min   Farzad Shamriz             Vision Document 4 
 2020-07-05    50min    Farzad Shamriz         Searching for smart home software 
-2020-07-06    2hours   Mahsa Alsadat Ghoreishi  Attending in the finalinzing documents meeting
-
+2020-07-05    90min   Amit Kumar Dey  		     Vision document 2 and 3
