@@ -1,4 +1,4 @@
-# SOEN6481 Course Project
+# SOEN6481 Course Project - Team 20
 
 ### Team Members
 * Richard Grand'Maison - 26145965
