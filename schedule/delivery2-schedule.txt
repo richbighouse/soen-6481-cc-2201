@@ -1,0 +1,9 @@
+Del2 schedule
+
+TASK		DUE			WHO
+Task 1		Sunday July 12		Everyone individually
+Task 2		Monday July 13		Teamwork
+Task 3		Monday July 13		Teamwork
+Task 4		Tuesday July 14		Teamwork
+Task 5		Wednesday July 15	Teamwork
+Task 6		Thursday July 16	Teamwork
