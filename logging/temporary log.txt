@@ -1,30 +1,31 @@
 Temporary log until we setup a better one
 
-DATE			TIME		MEMBER						       	TASK
-2020-06-30		20min		Richard Grand'Maison		Setup github repo and files
-2020-07-01		15min 		Richard Grand'Maison		Create questionnaire questions
-2020-07-02		180min		Richard Grand'Maison		Research existing solutions, and formulate questions to answer Vision Document requirements
-2020-07-01		15min 		Richard Grand'Maison		Create questionnaire questions
-2020-07-01    	60min   	Shah Mohammad Mostakim    	Add questionnaire questions from my side in google doc
-2020-07-01    	45min   	Amit Kumar Dey            	questionnaire questions in google doc 
-2020-07-01    	30min   	Mahsa Alsadat Ghoreishi   	Create questionnaire questions
+DATE			    TIME		  MEMBER						       	TASK
+2020-06-30		20min		  Richard Grand'Maison		  Setup github repo and files
+2020-07-01		15min 		Richard Grand'Maison		  Create questionnaire questions
+2020-07-02		180min		Richard Grand'Maison		  Research existing solutions, and formulate questions to answer Vision Document requirements
+2020-07-01		15min 		Richard Grand'Maison		  Create questionnaire questions
+2020-07-01    60min   	Shah Mohammad Mostakim    Add questionnaire questions from my side in google doc
+2020-07-01    45min   	Amit Kumar Dey            questionnaire questions in google doc 
+2020-07-01    30min   	Mahsa Alsadat Ghoreishi   Create questionnaire questions
 2020-06-30		15min 		Farzad Shamriz	      		Create questionnaire questions
-2020-07-02    	45min   	Farzad Shamriz            	Questionaries modification
-2020-06-30    	15min   	Farzad Shamriz           	Searching about google home devices and their facilities
-2020-07-02    	20min   	Farzad Shamriz            	Questionaries modification to finalize
-2020-07-02    	90min   	Shah Mohammad Mostakim    	Review and finalize the Questionnaire with team
-2020-07-04    	60min   	Mahsa Alsadat Ghoreishi   	Search about smart home devices
-2020-07-04    	90min   	Amit Kumar Dey  		    Research on the smart home systems.
-2020-07-05		60min		Richard Grand'Maison		Vision Document 4.2
-2020-07-05		60min 		Richard Grand'Maison		Vision Document 4.3
-2020-07-05		90min		Richard Grand'Maison		Research directo competitors and Vision Document 4.4
-2020-07-05		30min		Richard Grand'Maison		Create SmartHome+ system diagram for Vision Document 4.1
-2020-07-04    	30min   	Mahsa Alsadat Ghoreishi   	Search about available market in smart home systems.
-2020-07-05    	60mins   	Mahsa Alsadat Ghoreishi   	Vision Document 2.1 and 2.2
-2020-07-05    	120mins   	Mahsa Alsadat Ghoreishi   	Vision Document 3
-2020-07-05		60min 		Richard Grand'Maison		Vision Document 5
-2020-05-05		15min 		Richard Grand'Maison		Vision Document Introduction
-2020-07-05    	240min   	Farzad Shamriz              Vision Document 4 
-2020-07-05    	50min    	Farzad Shamriz         		Searching for smart home software 
-2020-07-05    	90min   	Amit Kumar Dey  		    Vision document 2 and 3
-2020-07-06		4hours		Everyone					Zoom meeting to discuss Delivery 1
+2020-07-02    45min   	Farzad Shamriz            Questionaries modification
+2020-06-30    15min   	Farzad Shamriz           	Searching about google home devices and their facilities
+2020-07-02    20min   	Farzad Shamriz            Questionaries modification to finalize
+2020-07-02    90min   	Shah Mohammad Mostakim    Review and finalize the Questionnaire with team
+2020-07-04    60min   	Mahsa Alsadat Ghoreishi   Search about smart home devices
+2020-07-04    90min   	Amit Kumar Dey  		      Research on the smart home systems.
+2020-07-05		60min		  Richard Grand'Maison		  Vision Document 4.2
+2020-07-05		60min 		Richard Grand'Maison		  Vision Document 4.3
+2020-07-05		90min		  Richard Grand'Maison		  Research directo competitors and Vision Document 4.4
+2020-07-05		30min		  Richard Grand'Maison		  Create SmartHome+ system diagram for Vision Document 4.1
+2020-07-04    30min   	Mahsa Alsadat Ghoreishi   Search about available market in smart home systems.
+2020-07-05    60min   	Mahsa Alsadat Ghoreishi   Vision Document 2.1 and 2.2
+2020-07-05    120min   	Mahsa Alsadat Ghoreishi   Vision Document 3
+2020-07-05		60min 		Richard Grand'Maison		  Vision Document 5
+2020-05-05		15min 		Richard Grand'Maison		  Vision Document Introduction
+2020-07-05    240min   	Farzad Shamriz            Vision Document 4 
+2020-07-05    50min    	Farzad Shamriz         		Searching for smart home software 
+2020-07-05    90min   	Amit Kumar Dey  		      Vision document 2 and 3
+2020-07-06		4hours		Everyone					        Zoom meeting to discuss Delivery 1
+2020-07-09    5min      Richard Grand'Maison      Invite TA to GitHub, format the log a bit better
