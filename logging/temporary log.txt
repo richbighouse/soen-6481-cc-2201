@@ -29,3 +29,8 @@ DATE			    TIME		  MEMBER						       	TASK
 2020-07-05    90min   	Amit Kumar Dey  		      Vision document 2 and 3
 2020-07-06		4hours		Everyone					        Zoom meeting to discuss Delivery 1
 2020-07-09    5min      Richard Grand'Maison      Invite TA to GitHub, format the log a bit better
+2020-07-09    1hour      Richard Grand'Maison     Team meeting on Zoom
+2020-07-09    1hour      Amit Kumar Dey     		Team meeting on Zoom
+2020-07-09    1hour      Shah Mohammad Mostakim     Team meeting on Zoom
+2020-07-09    1hour      Farzad Shamriz     Team meeting on Zoom
+2020-07-12	  30min		Richard Grand'Maison	Delivery 2 Task 1
