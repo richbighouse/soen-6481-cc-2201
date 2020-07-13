@@ -34,3 +34,4 @@ DATE			    TIME		  MEMBER						       	TASK
 2020-07-09    1hour      Shah Mohammad Mostakim     Team meeting on Zoom
 2020-07-09    1hour      Farzad Shamriz     Team meeting on Zoom
 2020-07-12	  30min		Richard Grand'Maison	Delivery 2 Task 1
+2020-07-12    90min    Shah Mohammad Mostakim    Delivery 2 task 1
