@@ -37,3 +37,5 @@ DATE			    TIME		  MEMBER						       	TASK
 2020-07-12    90min    Shah Mohammad Mostakim    Delivery 2 task 1
 2020-07-12    60min    Amit Kumar Dey            Delivery 2 task 1
 2020-07-12    60min    Mahsa Alsadat Ghoreishi   Delivery 2 task 1
+2020-07-12    45min    Mahsa Alsadat Ghoreishi   meeting on zoom about task 3
+2020-07-12    45min    Shah Mohammad Mostakim    meeting on zoom about task 3
