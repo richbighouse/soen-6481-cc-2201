@@ -38,6 +38,7 @@ DATE			    TIME		  MEMBER						       	TASK
 2020-07-12    60min    Amit Kumar Dey            Delivery 2 task 1
 2020-07-12    60min    Mahsa Alsadat Ghoreishi   Delivery 2 task 1
 2020-07-12    120min   Farzad Shamriz            Delivery 2 task 1
+2020-07-12    30min    Farzad Shamriz            Delivery 2 task 1 - Modification
 2020-07-12    45min    Mahsa Alsadat Ghoreishi   meeting on zoom about task 3
 2020-07-12    45min    Shah Mohammad Mostakim    meeting on zoom about task 3
 2020-07-13    180min    Shah Mohammad Mostakim   Check for conflicting requirements, propose solutions 
