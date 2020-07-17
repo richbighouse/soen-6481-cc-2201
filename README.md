@@ -13,7 +13,7 @@
 
 [Task 1 Elicitation artefact practice](https://docs.google.com/document/d/1FmX5atBFhi7Lsc5Tht47Ju1jsznNzJO_iz4hPA-gbH8/edit)
 
-[Vision Document](https://docs.google.com/document/d/1ylwtT3o4PcdC2PfvDcjodBqgJ25dRoK3/edit)
+[Vision Document](https://drive.google.com/file/d/1ylwtT3o4PcdC2PfvDcjodBqgJ25dRoK3/view?usp=sharing)
 
 [Vision Document Interface Diagram](https://drive.google.com/file/d/1cvEbO3YSH9mmtYhjmYP0adqqUP3b6eMs/view?usp=sharing)
 
