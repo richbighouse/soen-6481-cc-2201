@@ -51,3 +51,8 @@ DATE			    TIME		  MEMBER						       	TASK
 2020-07-15    5hours   Richard Grand'Maison      meeting on zoom to do tasks 2to5
 2020-07-15    5hours   Amit Kumar Dey            meeting on zoom to do tasks 2to5
 2020-07-15    5hours   Farzad Shamriz            meeting on zoom to do tasks 2to5
+2020-07-16    5hours   Mahsa Alsadat Ghoreish    meeting on zoom to wrap up the deliverable 2
+2020-07-16    5hours   Richard Grand'Maison      meeting on zoom to wrap up the deliverable 2
+2020-07-16    5hours   Amit Kumar Dey            meeting on zoom to wrap up the deliverable 2
+2020-07-16    5hours   Farzad Shamriz            meeting on zoom to wrap up the deliverable 2
+2020-07-16    5hours   Shah Mohammad Mostakim    meeting on zoom to wrap up the deliverable 2
