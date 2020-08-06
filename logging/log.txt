@@ -64,3 +64,4 @@ DATE			    TIME		  MEMBER						       	TASK
 2020-08-05    2hours  Farzad Shamriz            Combine Usecases and work on post mortem
 2020-08-05    2hours  Richard Grand'Maison		Fix Vision Document System Diagram
 2020-08-06    6hours  Richard Grand'Maison      Work on various aspects of D3
+2020-08-06    4hours  Shah Mohammad Mostakim    Multiple sections of Supplementary document,Zoom meeting 
