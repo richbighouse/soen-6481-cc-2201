@@ -54,3 +54,4 @@ DATE			    TIME		  MEMBER						       	TASK
 2020-07-16	  3hours	Everyone				 Zoom meeting to finalize D2
 2020-08-04    2hours  Shah Mohammad Mostakim    prepare checklist, review project progress so far
 2020-08-05    3hours  Shah Mohammad Mostakim    Task distribution, Supplementary Specification 
+2020-08-04    3hours  Farzad Shamriz            Usecase and modification
