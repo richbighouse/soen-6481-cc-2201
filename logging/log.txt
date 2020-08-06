@@ -52,6 +52,9 @@ DATE			    TIME		  MEMBER						       	TASK
 2020-07-15    5hours   Amit Kumar Dey            meeting on zoom to do tasks 2to5
 2020-07-15    5hours   Farzad Shamriz            meeting on zoom to do tasks 2to5
 2020-07-16	  3hours	Everyone				 Zoom meeting to finalize D2
+2020-07-31	  3hours  Richard Grand'Maison      Accessibility Use Case
+2020-08-03	  2hours  Richard Grand'Maison		Applying D1 fixes
+2020-08-04    4hours  Richard Grand'Maison      UML Diagrams
 2020-08-04    2hours  Shah Mohammad Mostakim    prepare checklist, review project progress so far
 2020-08-05    3hours  Shah Mohammad Mostakim    Task distribution, Supplementary Specification 
 2020-08-04    3hours  Farzad Shamriz            Usecase and modification
@@ -59,3 +62,5 @@ DATE			    TIME		  MEMBER						       	TASK
 2020-08-05    2hours   Mahsa Alsadat Ghoreish    supplementary specification - Delivery 3
 2020-08-05    2hours   Amit Kumar Dey           supplementary specification - Delivery 3
 2020-08-05    2hours  Farzad Shamriz            Combine Usecases and work on post mortem
+2020-08-05    2hours  Richard Grand'Maison		Fix Vision Document System Diagram
+2020-08-06    6hours  Richard Grand'Maison      Work on various aspects of D3
