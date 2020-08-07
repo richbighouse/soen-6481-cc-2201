@@ -66,3 +66,4 @@ DATE			    TIME		  MEMBER						       	TASK
 2020-08-06    6hours  Richard Grand'Maison      Work on various aspects of D3
 2020-08-06    4hours  Shah Mohammad Mostakim    Multiple sections of Supplementary document,Zoom meeting 
 2020-08-06    6hours  Amit Kumar Dey             Worked on delivary-3, including, use case and Supplementary Specification and Glossary
+2020-08-06    6hours  Farzad Shamriz            Delivary-3 including use case and postmortem report. 
